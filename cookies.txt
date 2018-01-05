@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pmaverick.com	TRUE	/	FALSE	1999999999	is_mobile	0
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	5a4fd459-877a8-6a02a-e6bda
+www.pmaverick.com	TRUE	/	FALSE	1999999999	language	en
+

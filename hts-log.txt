@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Jan 2018 11:38:39 at http://www.pmaverick.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.pmaverick.com -O1 "C:\Users\alext\Documents\GitHub\ProjectMaverick\Project Maverick" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:38:40	Warning: 	Note: due to www.pmaverick.com remote robots.txt rules, links beginning with these path will be forbidden: /ajax/, /apps/, /http://pmaverick.com, /http://pmaverick.com/, /http://alextac.com/about-me/ (see in the options to disable this)
+11:47:26	Error: 	"Not Found" (404) at link www.pmaverick.com/_blank (from www.pmaverick.com/)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/files/theme/images/sky-social-body.png?1511836616 (from www.pmaverick.com/files/main_style.css?1511836616)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/weebly/libraries/videojs/video-js.swf (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/AppleWebKit/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:30	Error: 	"Not Found" (404) at link www.pmaverick.com/Mobile/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1511824098)
+11:47:31	Warning: 	Retry after error -2 (Receive Time Out) at link www.pmaverick.com/uploads/4/9/8/6/49863435/8686158_orig.jpg (from www.pmaverick.com/design.html)
+11:47:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.pmaverick.com/uploads/4/9/8/6/49863435/2916798_orig.jpg (from www.pmaverick.com/design.html)
+11:47:31	Warning: 	Retry after error -4 (Incorrect length (265564 Bytes, 675455 expected)) at link www.pmaverick.com/uploads/4/9/8/6/49863435/367796_orig.png (from www.pmaverick.com/news)
+11:47:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.pmaverick.com/uploads/4/9/8/6/49863435/3115400.jpg?414 (from www.pmaverick.com/news)
+11:48:10	Error: 	"Not Found" (404) at link www.pmaverick.com/news/_blank (from www.pmaverick.com/news/thank-you-to-incose-and-ieee-for-the-beautiful-plaques)
+11:48:10	Error: 	"Not Found" (404) at link www.pmaverick.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+11:48:10	Error: 	"Not Found" (404) at link www.pmaverick.com/payload.js (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+11:48:10	Error: 	"Not Found" (404) at link www.pmaverick.com/POST (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+11:48:33	Error: 	"Not Found" (404) at link www.pmaverick.com/news/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1512182565)
+11:48:33	Error: 	"Not Found" (404) at link www.pmaverick.com/news/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1512182565)
+11:48:33	Error: 	"Not Found" (404) at link www.pmaverick.com/news/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1512182565)
+11:48:33	Error: 	"Not Found" (404) at link www.pmaverick.com/news/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1512182565)
+11:48:33	Error: 	"Not Found" (404) at link www.pmaverick.com/news/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1512182565)
+11:48:33	Warning: 	Found for www.pmaverick.com/news/AppleWebKit/
+11:48:33	Warning: 	File has moved from www.pmaverick.com/news/AppleWebKit/ to /news/applewebkit
+11:48:33	Warning: 	Found for www.pmaverick.com/news/Mobile/
+11:48:33	Warning: 	File has moved from www.pmaverick.com/news/Mobile/ to /news/mobile
+11:48:37	Error: 	"Not Found" (404) at link www.pmaverick.com/news/applewebkit (from www.pmaverick.com/news/AppleWebKit/)
+11:48:37	Error: 	"Not Found" (404) at link www.pmaverick.com/news/mobile (from www.pmaverick.com/news/Mobile/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 59 seconds : 266 links scanned, 238 files written (17875171 bytes overall) [13798207 bytes received at 23035 bytes/sec], 6268172 bytes transferred using HTTP compression in 58 files, ratio 24%, 4.2 requests per connection
+(21 errors, 9 warnings, 0 messages)
