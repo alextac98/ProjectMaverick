@@ -1,4 +1,4 @@
-pmaverick.com Website using Ghost
+Project Maverick Website using Ghost
 =================================
 
 ## Development Setup
